@@ -16,7 +16,7 @@ work to make more profit so What all business problems you can derive by explori
 
 ## Dataset
 
-Dataset: [SampleSuperStore.csv](https://bit.ly/3i4rbWl)
+Dataset: [SampleSuperstore.xlsx](https://github.com/mahmoudkhaledetman/Retail-Analysis/files/10807810/SampleSuperstore.xlsx)
 
 - Order
   - Ship Mode (Standard Class - First class - Second Class - Same Day)
