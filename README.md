@@ -38,8 +38,8 @@ Dataset: [SampleSuperStore.csv](https://bit.ly/3i4rbWl)
 
 ## Dashboard
 
-![Home Page](file:///C:/Users/aboukhadra/Desktop/Screenshot%202023-02-13%20013824.jpg)
+![Screenshot 2023-02-22 141821](https://user-images.githubusercontent.com/119439782/220742550-01c2bc68-c742-4840-b0ee-c2a312389d2f.jpg)
 
-![Overview Page](./Dashboard%20Photos/SuperStore%20Retail%20Analysis_page-0002.jpg)
+![Screenshot 2023-02-22 214735](https://user-images.githubusercontent.com/119439782/220742802-aa177d59-a4e6-44a3-ad07-1783997cc77b.jpg)
 
-[Live Dashboard](https://www.novypro.com/project/retail-1)
+[Live Dashboard](https://www.novypro.com/project/super-store-sales)
